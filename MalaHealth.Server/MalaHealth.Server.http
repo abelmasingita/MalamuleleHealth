@@ -1,0 +1,6 @@
+@MalaHealth.Server_HostAddress = http://localhost:5187
+
+GET {{MalaHealth.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
